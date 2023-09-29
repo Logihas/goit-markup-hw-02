@@ -1,5 +1,5 @@
 :root {
-  color: var(--color-IRIS#4D5AE5);
+--color-IRIS: #4D5AE5;
 }
 body{
   font-family:'Roboto', sans-serif;
@@ -13,7 +13,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color: var(--IRIS);
+color: var(--color-IRIS);
 }
 .first:hover{
   color:#404bbf;
