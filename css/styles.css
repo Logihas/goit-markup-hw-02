@@ -16,9 +16,9 @@ text-transform: uppercase;
 color:#4d5ae5;
 
 }
-
 .link{
-  
+  color:#4d5ae5;
+  text-decoration: none; 
 }
 .filter-button :hover
 .filter-button :focus{
