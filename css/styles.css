@@ -1,5 +1,6 @@
 :root {
 --IRIS:#4D5AE5;
+--color-section1:#2e2f42;
 }
 body{
   font-family:'Roboto', sans-serif;
@@ -13,7 +14,7 @@ font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color:var(--IRIS);
+color: var(--IRIS);
 }
 .first:hover{
   color:#404bbf;
@@ -57,14 +58,15 @@ color:var(--IRIS);
 .filter-button :focus{
 background-color: var(--color-example);
 }
-.section{
-  background-color: #2e2f42;
+.section1{
+  background-color: var(--color-section1);
 }
 .heading{
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
-
+  letter-spacing: 0.02em;
+  color: #FFFFFF;
 }
 
 .filter-button{
