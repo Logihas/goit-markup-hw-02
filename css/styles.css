@@ -68,6 +68,22 @@ background-color: var(--color-example);
   letter-spacing: 0.02em;
   color: #FFFFFF;
 }
+.button{
+  background-color: #4D5AE5;
+  font-family: "Roboto",sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #FFFFFF;
+  cursor: pointer;
+}
+.button:hover{
+  background-color: #404BBF;
+}
+.button:focus{
+  background-color: #404BBF;
+}
 
 .filter-button{
     background-color: var(--color-main);
