@@ -3,10 +3,12 @@ body{
   color: #434455;
   background-color: #FFFFFF;
 }
+root:{
+color: var(--color-accent);
+}
 
 .list{
-
-color: var(--color-accent) ;   
+  
 }
 .filter-button :hover
 .filter-button :focus{
