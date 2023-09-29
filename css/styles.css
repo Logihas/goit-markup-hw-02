@@ -58,7 +58,7 @@ color: var(--IRIS);
 .filter-button :focus{
 background-color: var(--color-example);
 }
-.section1{
+.section-first{
   background-color: var(--color-section1);
 }
 .heading{
