@@ -39,6 +39,20 @@ color:#4d5ae5;
   color:#2e2f42;
   text-decoration: none; 
 }
+.contact{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color:#434455;
+  text-decoration: none;
+
+}
+.contact:hover{
+  color:#404bbf
+}
+.contact:focus{
+  color:#404bbf;
+}
 .filter-button :hover
 .filter-button :focus{
 background-color: var(--color-example);
