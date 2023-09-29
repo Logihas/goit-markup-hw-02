@@ -1,19 +1,19 @@
 :root {
-  color: var(--color-#4d5ae5);
+  color: var(--color-IRIS:#4D5AE5);
 }
 body{
   font-family:'Roboto', sans-serif;
   color: #434455;
   background-color: #FFFFFF;
 }
-.studio{
+.logo{
 font-family: 'Raleway', sans-serif;
 font-weight: 800;
 font-size: 18px;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
-color:#4d5ae5;
+color: var(--color-IRIS);
 }
 .first:hover{
   color:#404bbf;
@@ -56,6 +56,15 @@ color:#4d5ae5;
 .filter-button :hover
 .filter-button :focus{
 background-color: var(--color-example);
+}
+.section{
+  background-color: #2e2f42;
+}
+.heading{
+  font-size: 56px;
+  line-height: 1.07;
+  text-align: center;
+
 }
 
 .filter-button{
