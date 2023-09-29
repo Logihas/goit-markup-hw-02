@@ -1,0 +1,15 @@
+body{
+  font-family:'Roboto', sans-serif;  
+}
+.filters-list{
+
+color: var(--color-accent) ;   
+}
+.filter-button :hover
+.filter-button :focus{
+background-color: var(--color-example);
+}
+
+.filter-button{
+    background-color: var(--color-main);
+}
