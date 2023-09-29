@@ -15,6 +15,12 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
 }
+.zzz :hover{
+  color:#404bbf;
+}
+.zzz :focus{
+  color:#404bbf;
+}
 .zxc{
   font-weight: 500;
   font-size: 16px;
