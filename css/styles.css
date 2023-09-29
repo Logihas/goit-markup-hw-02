@@ -61,12 +61,20 @@ background-color: var(--color-example);
 .section-first{
   background-color: var(--color-section1);
 }
-.heading{
+.heading-one{
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   color: #FFFFFF;
+}
+.heading-two{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color:#2e2f42;
+  
 }
 .button{
   background-color: #4D5AE5;
