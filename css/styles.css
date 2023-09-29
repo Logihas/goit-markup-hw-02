@@ -15,10 +15,10 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
 }
-.zzz :hover{
+.zzz:hover{
   color:#404bbf;
 }
-.zzz :focus{
+.zzz:focus{
   color:#404bbf;
 }
 .zxc{
