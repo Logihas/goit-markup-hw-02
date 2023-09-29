@@ -6,7 +6,7 @@ body{
   color: #434455;
   background-color: #FFFFFF;
 }
-.zzz{
+.studio{
 font-family: 'Raleway', sans-serif;
 font-weight: 800;
 font-size: 18px;
@@ -15,13 +15,13 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color:#4d5ae5;
 }
-.zxc:hover{
+.first:hover{
   color:#404bbf;
 }
-.zxc:focus{
+.first:focus{
   color:#404bbf;
 }
-.zxc{
+.first{
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
