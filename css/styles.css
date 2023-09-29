@@ -3,7 +3,7 @@ body{
   color: #434455;
   background-color: #FFFFFF;
 }
-root:{
+:root{
 color: var(--color-accent);
 }
 
