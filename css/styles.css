@@ -32,7 +32,7 @@ color: var(--color-logo);
   letter-spacing: 0.02em;
   color:#2e2f42;
 }
-.li{
+.li-one{
   background-color: #FFFFFF;
 
 }
@@ -140,6 +140,7 @@ letter-spacing: 0.02em;
     font-family: inherit;
     cursor: pointer;
 }
-.foo{
+.footer{
   background-color: #2e2f42;
+  
 }
