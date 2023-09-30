@@ -16,6 +16,9 @@ letter-spacing: 0.03em;
 text-transform: uppercase;
 color: var(--color-logo);
 }
+.list{
+
+}
 .first:hover{
   color:#404bbf;
 }
@@ -28,6 +31,10 @@ color: var(--color-logo);
   line-height: 1.5;
   letter-spacing: 0.02em;
   color:#2e2f42;
+}
+.li{
+  background-color: #FFFFFF;
+
 }
 .address{
   font-style: normal;
@@ -93,12 +100,23 @@ background-color: var(--color-example);
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color:#2e2f42;
-  
+}
+.heading-fife{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color:#2e2f42;
 }
 .paragraph-one{
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+}
+.paragraph-two{
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 .button{
   background-color: #4D5AE5;
