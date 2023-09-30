@@ -1,6 +1,7 @@
 :root {
 --color-logo:#4d5ae5;
 --color-section1:#2e2f42;
+--color-footer:#F4F4FD;
 }
 body{
   font-family:'Roboto', sans-serif;
@@ -50,6 +51,14 @@ color: var(--color-logo);
 }
 .span{
   color: #2e2f42;
+}
+.span-footer{
+color:#f4f4fd;
+}
+.footer-paragraph{
+  line-height: 1.5;
+  color: var(--color-footer);
+  letter-spacing: 0.02em; 
 }
 .link{
   text-decoration: none; 
@@ -142,5 +151,5 @@ letter-spacing: 0.02em;
 }
 .footer{
   background-color: #2e2f42;
-  
+
 }
