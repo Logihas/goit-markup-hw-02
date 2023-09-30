@@ -39,7 +39,7 @@ color: var(--color-logo);
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color:#2e2f42;
-  
+
 }
 .span{
   color: #2e2f42;
@@ -68,6 +68,10 @@ background-color: var(--color-example);
 .section-first{
   background-color: var(--color-section1);
 }
+.section-second{
+  background-color: #F4F4FD;
+
+}
 .heading-one{
   font-size: 56px;
   line-height: 1.07;
@@ -81,7 +85,15 @@ background-color: var(--color-example);
   line-height: 1.2;
   letter-spacing: 0.02em;
   color:#2e2f42;
-
+}
+.heading-four{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color:#2e2f42;
+  
 }
 .paragraph-one{
   font-size: 16px;
