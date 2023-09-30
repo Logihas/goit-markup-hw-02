@@ -31,7 +31,15 @@ color: var(--color-logo);
 }
 .address{
   font-style: normal;
- 
+}
+.heading-three{
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color:#2e2f42;
+  
 }
 .span{
   color: #2e2f42;
