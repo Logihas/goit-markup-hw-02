@@ -2,6 +2,7 @@
 --color-logo:#4d5ae5;
 --color-section1:#2e2f42;
 --color-footer:#F4F4FD;
+--color-paragraph:#434455;
 }
 body{
   font-family:'Roboto', sans-serif;
@@ -117,6 +118,14 @@ background-color: var(--color-example);
   letter-spacing: 0.02em;
   color:#2e2f42;
 }
+.heading-portfolio{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: var(--color-section1);
+
+}
 .paragraph-one{
   font-size: 16px;
   line-height: 1.5;
@@ -126,6 +135,12 @@ background-color: var(--color-example);
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.02em;
+}
+.paragraph-portfolio{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-paragraph)
 }
 .button{
   background-color: #4D5AE5;
